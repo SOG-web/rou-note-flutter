@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "339599564623",
+    "project_id": "rounoteflutter",
+    "storage_bucket": "rounoteflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339599564623:android:9870250ecc6e4ae1292f3a",
+        "android_client_info": {
+          "package_name": "tech.routechnology.rounoteflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339599564623-t6hoaq1mc8b3p2e96om3ebjek3acpug6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3frRHAuNKoNRDNf0P6jS_1E3WgxMSGAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339599564623-t6hoaq1mc8b3p2e96om3ebjek3acpug6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "339599564623-n7qldrfmipsovc595pn5eetok6n4o4n6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "tech.routechnology.rounoteflutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
